@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hoggdog a.k.a. Simon J. Hogg, Ph.D
+- 👋 Hi, I’m @hoggdog a.k.a. Simon J. Hogg
 - :email: HoggS[at]mskcc[dot]org
 - 📫 Research Fellow at Memorial Sloan Kettering Cancer Center in New York City
 - :us: via :australia: and :new_zealand:
