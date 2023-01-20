@@ -1,5 +1,4 @@
 - 👋 hi, i'm simon
-- 📫 big pharma r&d
 - :atom_symbol: oncology, genomics, and drug development
 
 
